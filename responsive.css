@@ -1,0 +1,35 @@
+/* under 500px */
+    @media screen and (max-width: 31.25em ){
+        #main-doc {
+            background: white;
+            padding: 0;
+            margin: 0;
+            border: none;
+            text-align: left;
+        }
+        #main-header {
+            padding: 0;
+            border: none;
+            background: white;
+        }
+        #navbar {
+            display: none;
+        }
+        section.main-section {
+            margin-left: 0px;
+            border: none;
+        }
+        code {
+            display: block;
+            margin-left: 0px;
+            
+        }
+       iframe-container {
+           
+       }
+        footer {
+            padding: 0;
+            background: white;
+            border: none;
+        }
+    }
